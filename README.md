@@ -7,3 +7,4 @@ Dies ist ein Projekt, um die Grundlagen von Git zu lernen.
 Änderung 5
 Änderung 6
 Änderung 7
+Änderung 8

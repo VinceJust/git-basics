@@ -19,3 +19,5 @@ Dies ist ein Projekt, um die Grundlagen von Git zu lernen.
 Änderung 17
 Änderung 18
 Änderung 19
+
+# Markdown Link: [Mein GitHub](https://github.com/VinceJust)
